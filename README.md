@@ -24,3 +24,7 @@ Die Leiter sind IamGabrielTV und RakunYT
 Entweder ihr schreibt uns per email an: contact@raktopia.de 
 
 Oder Ihr kommt auf Unseren <a class="primary-btn" href="https://dsc.gg/raktopia">Discord</a>
+
+# Social Media >>
+
+
