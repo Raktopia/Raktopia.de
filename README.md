@@ -7,6 +7,8 @@ Wenn ihr auf dem Neusten stand sein Wollt dann Joint doch gerne dem Discord Serv
 
 <a class="primary-btn" href="https://dsc.gg/raktopia">Jetzt beitreten</a>
 
+<iframe src="https://discord.com/widget?id=1054494962756096081&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 # Wer Leitet alles?
 
 Die Leiter sind IamGabrielTV und RakunYT
