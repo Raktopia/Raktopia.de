@@ -1,3 +1,7 @@
+<p align="center">
+  <img alt="logo" src="https://github.com/Raktopia/raktopia.de/assets/41999358/2f2c062e-aa4f-4dfc-a627-4c2c1737ca75" />
+</p>
+
 # Wir sind endlich da!
 
 Wir das RakTopia Team wollen den Server "RakTopia" Vorstellen!
