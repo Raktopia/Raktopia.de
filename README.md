@@ -15,7 +15,7 @@ Wir sind RakTopia Ein Minecraft Server und freuen uns den Server euch vorstellen
   Wenn du uns helfen möchtest kannst du es tun denn wir suchen momentan noch Builder, Supporter, Mods und vielleicht auch Developer.
 </details>
 </p>
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 <details>
 <summary>🇬🇧 About Us >> </summary>
