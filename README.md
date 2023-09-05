@@ -26,8 +26,4 @@ Oder Ihr kommt auf Unseren <a class="primary-btn" href="https://dsc.gg/raktopia"
 
 # Social Media >>
 
-<p align="center">
-  <img alt="logo" src="https://github.com/Raktopia/raktopia.de/assets/90984212/c328062e-b305-40ca-bb1b-a1f696eb64e7" />
-</p>
-
 <a class="primary-btn" href="https://dsc.gg/raktopia">Jetzt beitreten</a>
