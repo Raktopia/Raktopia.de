@@ -47,7 +47,7 @@ We are RakTopia A Minecraft Server and are happy to introduce the server to you.
 </div>
 
 <p align="center">
-  <img alt="logo" src="https://github.com/Raktopia/raktopia.de/assets/90984212/83dfe56e-dcb7-4296-ad9c-30923b076980" />
+  <img alt="logo" src="https://github.com/Raktopia/raktopia.de/assets/90984212/9e5172f2-fe4b-4651-9ea0-0924af89ed20" />
 <p align="center">
 
 <div align="center">
