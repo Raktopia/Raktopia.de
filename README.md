@@ -9,6 +9,27 @@ Wir das RakTopia Team wollen den Server "RakTopia" Vorstellen!
 Auf Unserem Server werden bald Minigames kommen die Cool sein werden.
 Wenn ihr auf dem Neusten stand sein Wollt dann Joint doch gerne dem Discord Server!
 
+
+    <style>
+        .primary-btn {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #00bfff; /* Hellblaue Hintergrundfarbe */
+            color: #fff; /* Weiße Textfarbe */
+            text-decoration: none;
+            border: none;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+            transition: background-color 0.3s ease; /* Flüssiger Farbübergang */
+        }
+
+        .primary-btn:hover {
+            background-color: #007acc; /* Hellblau bei Hover-Effekt */
+        }
+    </style>
+
+
 <a class="primary-btn" href="https://dsc.gg/raktopia">Jetzt beitreten</a>
 
 # Wer Leitet alles?
