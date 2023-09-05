@@ -2,14 +2,13 @@
   <img alt="logo" src="https://github.com/Raktopia/raktopia.de/assets/41999358/2f2c062e-aa4f-4dfc-a627-4c2c1737ca75" />
 </p>
 
+
 # Wir sind endlich da!
 
 Wir das RakTopia Team wollen den Server "RakTopia" Vorstellen!
 
 Auf Unserem Server werden bald Minigames kommen die Cool sein werden.
-Wenn ihr auf dem Neusten stand sein Wollt dann Joint doch gerne dem Discord Server!
-
-<a class="primary-btn" href="https://dsc.gg/raktopia">Jetzt beitreten</a>
+Wenn ihr auf dem Neusten stand sein Wollt dann Joint doch gerne dem <a class="primary-btn" href="https://dsc.gg/raktopia">Discord Server.</a>
 
 # Wer Leitet alles?
 
@@ -27,4 +26,8 @@ Oder Ihr kommt auf Unseren <a class="primary-btn" href="https://dsc.gg/raktopia"
 
 # Social Media >>
 
+<p align="center">
+  <img alt="logo" src="https://github.com/Raktopia/raktopia.de/assets/90984212/c328062e-b305-40ca-bb1b-a1f696eb64e7" />
+</p>
 
+<a class="primary-btn" href="https://dsc.gg/raktopia">Jetzt beitreten</a>
