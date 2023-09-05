@@ -3,16 +3,20 @@
 </p>
 
 
-# Wir sind endlich da!
+# Wir stellen "Raktopia" vor.
 
-Wir das RakTopia Team wollen den Server "RakTopia" Vorstellen!
 
-Auf Unserem Server werden bald Minigames kommen die Cool sein werden.
-Wenn ihr auf dem Neusten stand sein Wollt dann Joint doch gerne dem <a class="primary-btn" href="https://dsc.gg/raktopia">Discord Server.</a>
+<p align="center">
+<details>
+<summary>Über Uns >> </summary>
+Wir sind RakTopia Ein Minecraft Server und freuen uns den Server euch vorstellen zu dürfen bei dem Server wird viel Arbeit reingeflossen.
+  Wir wollen für euch coole Minigames Anbieten die es so auf servern selten gibt.
+  Wir haben eine eigende Website wo man eventuell auch mal <a class="primary-btn" href="https://raktopia.de">Vorbei schauen</a> könnte.
+  Wenn du uns helfen möchtest kannst du es tun denn wir suchen momentan noch Builder, Supporter, Mods und vielleicht auch Developer.
+</details>
+</p>
 
-# Wer Leitet alles?
-
-Die Leiter sind IamGabrielTV und RakunYT
+# Unsere Leitung: 
 
 <img alt="Discord RPC" src="https://camo.githubusercontent.com/1af9dbd6297166063610269fc0e0d0848fd54b800f83bc2ca8349bd56ffc6a1d/68747470733a2f2f6c616e796172642e636e7261642e6465762f6170692f343638313030383937383630343835313230" data-canonical-src="https://lanyard.cnrad.dev/api/468100897860485120" style="max-width: 100%;">
 
@@ -24,6 +28,19 @@ Entweder ihr schreibt uns per email an: contact@raktopia.de
 
 Oder Ihr kommt auf Unseren <a class="primary-btn" href="https://dsc.gg/raktopia">Discord</a>
 
-# Social Media >>
+<p align="center">
+  <img alt="logo" src="https://github.com/Raktopia/raktopia.de/assets/90984212/83dfe56e-dcb7-4296-ad9c-30923b076980" />
+</p>
 
-<a class="primary-btn" href="https://dsc.gg/raktopia">Jetzt beitreten</a>
+<div align="center">
+  <a href="https://linktr.ee/raktopia" target="_blank" onmouseover="zoomIn(this)" onmouseout="zoomOut(this)">
+    <img src="https://www.transparentpng.com/thumb/click-here-button/ABRPtf-click-here-button-photos.png" alt="Unsere Links">
+  </a>
+</div>
+
+
+
+
+
+
+
