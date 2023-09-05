@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="logo" src="https://github.com/Raktopia/raktopia.de/assets/41999358/2f2c062e-aa4f-4dfc-a627-4c2c1737ca75" />
+  <img alt="logo" src="https://github.com/Raktopia/raktopia.de/assets/41999358/b906e9c1-5cec-49c0-9430-88bb331c5d7e" />
 </p>
 
 <div align="center">
