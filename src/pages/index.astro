@@ -6,13 +6,14 @@ import { Icon } from "astro-icon";
 <Layout title="Home | Raktopia.de | Minecraft Server">
   <div class="navbar flex-row">
     <div class="navbar-start">
-      <button class="btn bg-base-200/50 hidden md:flex">
-        <Icon class="text-blue-500" name="mdi:minecraft" />
+      <button
+        class="btn bg-base-200/50 hidden md:grid grid-rows-1 grid-cols-2 hover:scale-105 transition-all"
+      >
       </button>
     </div>
     <div class="navbar-center">
       <img
-        class="w-screen md:h-40 md:w-auto"
+        class="w-screen md:h-40 md:w-auto cursor-pointer hover:scale-105 transition-all"
         src="https://github.com/Raktopia/raktopia.de/assets/41999358/b906e9c1-5cec-49c0-9430-88bb331c5d7e"
       />
     </div>
