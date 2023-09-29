@@ -42,7 +42,7 @@ We are RakTopia A Minecraft Server and are happy to introduce the server to you.
 
 
 <div align="center">
-  Our Email: contact@raktopia.de
+  Our Email: <a href="mailto:contact@raktopia.de">contact@raktopia.de</a>
 & Join our <a class="primary-btn" href="https://dsc.gg/raktopia">Discord.</a>
 </div>
 
