@@ -26,50 +26,66 @@ import { Icon } from "astro-icon";
   </div>
 </Layout>
 
-<div class="flex flex-row items-center h-screen relative">
-  <div class="flex flex-col items-center justify-center w-1/2">
-    <div class="border border-purple p-0 mb-4">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/shnEl_ApYoc?si=Aokd7ChjH1RiwNlW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-    </div>
+  <!-- Trailer -->
 
-    <div class="Trailer mt-4">
-      <p class="text-xl font-bold">SPIELE UNSEREN TRAILER AB</p>
+  <div class="flex flex-row items-center h-screen relative">
+    <div class="flex flex-col items-center justify-center w-1/2">
+      <div class="border border-purple p-0 mb-4">
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/shnEl_ApYoc?si=Aokd7ChjH1RiwNlW"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+      </div>
+
+      <div class="Trailer mt-4">
+        <p class="text-xl font-bold">SPIELE UNSEREN TRAILER AB</p>
+      </div>
     </div>
   </div>
 
-  <div class="ServerDescription flex flex-col items-start justify-center w-1/2 ml-5 mb-20">
-      <p class="text-xl font-bold">Willkommen Auf unserer Homepage. Wir sind RakTopia Ein Minecraft Netzwerk, Wir werden unterschiedliche Minigames anbieten die es so auf Servern sehr selten gibt. Wir haben auch ganz tolle Teamler die ihr Ingame anschreiben könnt die euch auch gerne Helfen auf dem Server. ;)</p>
+    <div
+      class="ServerDescription flex flex-col items-start justify-center w-1/2 ml-5 mb-20"
+    >
+      <p class="text-xl font-bold">
+        Willkommen Auf unserer Homepage. Wir sind RakTopia Ein Minecraft
+        Netzwerk, Wir werden unterschiedliche Minigames anbieten die es so auf
+        Servern sehr selten gibt. Wir haben auch ganz tolle Teamler die ihr
+        Ingame anschreiben könnt die euch auch gerne Helfen auf dem Server. ;)
+      </p>
     </div>
   </div>
 
-<!-- RaknStyles -->
+  <!-- RaknStyles -->
 
-<style>
-  .border {
-    transition: transform 0.3s ease;
-    opacity: 1;
-    border-color: purple;
-    border-width: 6px;
-    position: relative;
-  }
+  <style>
+    .border {
+      transition: transform 0.3s ease;
+      opacity: 1;
+      border-color: purple;
+      border-width: 6px;
+      position: relative;
+    }
 
-  .border:hover {
-    transform: scale(1.1);
-  }
+    .border:hover {
+      transform: scale(1.1);
+    }
 
-  .Trailer {
-    text-align: center;
-  }
+    .Trailer {
+      text-align: center;
+    }
 
-  .Trailer p {
-    color: gray;
-    font-size: 2rem;
-  }
-  .ServerDescription p {
-    text-align: center;
-    font-size: 1.2rem;
-  }
+    .Trailer p {
+      color: gray;
+      font-size: 2rem;
+    }
+    .ServerDescription p {
+      text-align: center;
+      font-size: 1.2rem;
+    }
 
   </style>
-  
 </Layout>
