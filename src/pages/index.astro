@@ -5,40 +5,41 @@ import { Icon } from "astro-icon";
 
 <Layout title="Home | Raktopia.de | Minecraft Server">
   <div class="navbar flex-row">
-    <div class="navbar-start">
-      <button class="btn bg-base-200/50 hidden md:flex">
-        <Icon class="text-blue-500" name="mdi:minecraft" />
-      </button>
-    </div>
+    <div class="navbar-start"></div>
+    <button class="btn bg-base-200/50 hidden md:flex">
+      <Icon class="text-blue-500" name="mdi:minecraft" />
+    </button>
     <div class="navbar-center">
       <img
         class="w-screen md:h-40 md:w-auto"
         src="https://github.com/Raktopia/raktopia.de/assets/41999358/b906e9c1-5cec-49c0-9430-88bb331c5d7e"
       />
     </div>
-    <div class="navbar-end"></div>
+    <div class="navbar-end">
+      <a href="https://dsc.gg/raktopia" class="btn bg-base-200/50 hidden md:inline-block flex flex-col items-center">
+        <img src="https://cdn-icons-png.flaticon.com/512/4945/4945973.png" alt="Discord Icon" style="width: 40px; height: 40px; margin-top: 3px; margin-right: 3px;">
+        <span>Jetzt Beitreten</span>
+      </a>
+    </div>
   </div>
+</Layout>
 
-
-  <!-- Trailer -->
-
-  <div class="flex flex-row items-center h-screen relative">
-    <div class="flex flex-col items-center justify-center w-1/2">
-      <div class="border border-purple p-0 mb-4">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/shnEl_ApYoc?si=Aokd7ChjH1RiwNlW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      </div>
-  
-      <div class="Trailer mt-4">
-        <p class="text-xl font-bold">SPIELE UNSEREN TRAILER AB</p>
-      </div>
+<div class="flex flex-row items-center h-screen relative">
+  <div class="flex flex-col items-center justify-center w-1/2">
+    <div class="border border-purple p-0 mb-4">
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/shnEl_ApYoc?si=Aokd7ChjH1RiwNlW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
-    <div class="ServerDescription flex flex-col items-start justify-center w-1/2 ml-5 mb-20">
+    <div class="Trailer mt-4">
+      <p class="text-xl font-bold">SPIELE UNSEREN TRAILER AB</p>
+    </div>
+  </div>
+
+  <div class="ServerDescription flex flex-col items-start justify-center w-1/2 ml-5 mb-20">
       <p class="text-xl font-bold">Willkommen Auf unserer Homepage. Wir sind RakTopia Ein Minecraft Netzwerk, Wir werden unterschiedliche Minigames anbieten die es so auf Servern sehr selten gibt. Wir haben auch ganz tolle Teamler die ihr Ingame anschreiben könnt die euch auch gerne Helfen auf dem Server. ;)</p>
     </div>
   </div>
-  
-  
+
 <!-- RaknStyles -->
 
 <style>
@@ -66,6 +67,7 @@ import { Icon } from "astro-icon";
     text-align: center;
     font-size: 1.2rem;
   }
+
   </style>
   
 </Layout>
